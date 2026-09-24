@@ -29,6 +29,7 @@ Awesome-Cryptocurrency is an curated list for people who want to learn about cry
 ## Charts
 * [CoinMarketCap](https://coinmarketcap.com/) - Market capitilization rankings, and charts for cryptocurrencies, and exchanges.
 * [CryptoWatch](https://cryptowat.ch/) - Terminal for most cryptocurrencies with support for most exchanges.
+* [GDEX](https://gdex.pro/) - Web-based multi-chain crypto trading terminal with copy trading and wallet analytics.
 * [TradingView](https://www.tradingview.com/) - Stock charts, quotes, and trade ideas for Cryptocurrencies, NASDAQ, FOREX, and more.
 
 ## Exchanges
